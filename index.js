@@ -6,5 +6,5 @@ function destructivelyAppendKitten(name){
   return(kittens)
 }
 function destructivelyprependKitten(name){
-  
+
 }
